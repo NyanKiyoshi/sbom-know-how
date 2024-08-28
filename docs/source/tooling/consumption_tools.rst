@@ -50,7 +50,7 @@ DaggerBoard
 Dependency-Track
 ################
 
-`Dependency-Track <https://github.com/DependencyTrack/dependency-track> `_ uses :ref:`CycloneDX <cdx>` SBOMs to monitor component usage across all versions of the application in its portfolio, in order to identify and reduce risk in the software supply chain.
+`Dependency-Track <https://github.com/DependencyTrack/dependency-track>`_ uses :ref:`CycloneDX <cdx>` SBOMs to monitor component usage across all versions of the application in its portfolio, in order to identify and reduce risk in the software supply chain.
 
 
 .. tool-data:: FOSSology
